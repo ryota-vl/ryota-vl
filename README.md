@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I create blog posts and open source projects about software testing. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+
 <!--
 **ryota-vl/ryota-vl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
