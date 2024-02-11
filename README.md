@@ -1,7 +1,6 @@
 ### Hi 👋
 
-I'm Vance. I am a Software QA Engineer / Backed Devloper with 10+ years experience working in IT. specializing in software development and testing. I am foucs on QA manual testing methods, 
-implementing test plan, test case, and test execution, and epcialize in QA automation for web, API, GUI or E2E testing in CI/CD process.
+I'm Vance. I am a Software QA Engineer / Backend Developer with 10+ years of experience working in IT, specializing in software development and testing. I focus on QA manual testing methods, implementing test plans, test cases, and test execution, and specialize in QA automation for web, API, GUI, or E2E testing in CI/CD processes.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
