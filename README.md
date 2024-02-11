@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h2>Profile</h2>
+  [![ryota-vl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryota-vl&show_icons=true&theme=radical)](https://github.com/ryota-vl/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota-vl&layout=compact&theme=gruvbox)](https://github.com/ryota-vl/github-readme-stats)
+</div>
 
-[![ryota-vl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryota-vl)](https://github.com/ryota-vl/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota-vl&layout=compact&theme=gruvbox)](https://github.com/ryota-vl/github-readme-stats)
+<div aligh="center">
+  <h2>Projects</h2>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ryota-vl&repo=docker-robot-framework&theme=dark)](https://github.com/ryota-vl/docker-robot-framework)
+</div>
