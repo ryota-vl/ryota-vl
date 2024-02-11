@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 [![ryota-vl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryota-vl)](https://github.com/ryota-vl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota-vl&layout=compact&theme=gruvbox)](https://github.com/ryota-vl/github-readme-stats)
